@@ -63,6 +63,9 @@ The program uses webcam by default when started. To use a video file, set the `s
     └── videos/                # Video recordings
 ```
 
+<img width="640" height="640" alt="Output_2" src="https://github.com/user-attachments/assets/8901b95f-0f22-4c25-a510-049a2f3eb2a0" />
+<img width="640" height="640" alt="Output_4" src="https://github.com/user-attachments/assets/fbbdb78e-f3c1-4a23-8a7e-179adcea90d7" />
+
 ## Contributing
 
 1. Fork this repository
